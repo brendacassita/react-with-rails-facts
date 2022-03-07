@@ -1,24 +1,13 @@
-# README
+# STEPS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# RAILS
+  - create rails app
+  - create model/s
+  - seed db
+  - create controller/s
+  - add routes in routes/rb
+  - fill out controllers
+  - test with postman
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# REACT
+  -   
